@@ -10,7 +10,7 @@ Features:
 * AI difficulty levels 0-9
 * two player mode
 * music and sound effects
-* the finest graphics of 1976
+* the finest graphics of 1972
 
 Made with Godot 3.5 for the [20 games challenge](https://20_games_challenge.gitlab.io/).
 
