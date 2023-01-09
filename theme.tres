@@ -1,0 +1,12 @@
+[gd_resource type="Theme" load_steps=2 format=2]
+
+[ext_resource path="res://font.tres" type="DynamicFont" id=1]
+
+[resource]
+/colors/ch = Color( 1, 1, 1, 1 )
+Button/fonts/font = ExtResource( 1 )
+CheckBox/fonts/font = ExtResource( 1 )
+Label/colors/font_color = Color( 0.85098, 0.843137, 0.207843, 1 )
+Label/fonts/font = ExtResource( 1 )
+LineEdit/constants/minimum_spaces = 7
+LineEdit/fonts/font = ExtResource( 1 )
